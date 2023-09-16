@@ -23,10 +23,12 @@ default: &default
   username: postgres
   password: ada4159
   host: localhost
+  # database: budgetapp
 
 development:
   <<: *default
   database: budgetapp_development
+
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
@@ -84,6 +86,7 @@ test:
 #
 production:
   <<: *default
+  url: <%= ENV["DATABASE_URL"] %>
   database: budgetapp_production
   username: budgetapp
   password: <%= ENV["BUDGETAPP_DATABASE_PASSWORD"] %>
