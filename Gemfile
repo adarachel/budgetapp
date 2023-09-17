@@ -74,3 +74,15 @@ group :test do
 end
 
 gem 'devise'
+
+# cancancan
+gem 'cancancan'
+
+# bootstrap
+gem 'bootstrap'
+
+# jquery
+gem 'jquery-rails'
+
+# rspec
+gem 'rspec-rails'
