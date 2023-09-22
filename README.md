@@ -70,6 +70,8 @@ Budget App is a mobile web application designed for efficient budget management.
 
 - [Live Demo Link](https://rails-kbsp.onrender.com/)
 
+- [Loom Video](https://www.loom.com/share/e64e4e5968e840c9a7ce23b0c46ab22d)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
