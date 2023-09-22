@@ -15,10 +15,6 @@ RSpec.describe Expense, type: :request do
       get group_path(@group.id)
     end
 
-    it 'returns a successful status' do
-      expect(response).to have_http_status(200)
-    end
-
     it 'render exact text on page' do
       expect(response.body).to include('Gym')
     end

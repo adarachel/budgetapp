@@ -166,12 +166,14 @@ If you like this project, please give it a star ⭐.
 
 > Thank you to Microverse.
 
+>  Thank you to [Gregoire Vella] (https://www.behance.net/gregoirevella) on Behance, the author of the [original design] (https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](MIT.md) licensed.
+This project is [MIT](LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
